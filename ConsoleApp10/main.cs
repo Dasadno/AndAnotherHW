@@ -16,7 +16,7 @@
             pc.Info();
 
             User user = new User("Alex", "Smith", "Peter", 22);
-            user.Fio();
+            user.Fio(); 
 
             PostOffice postOffice = new PostOffice(66778839, "NY", "Wall st.", 22, 45, 195, "hello");
             postOffice.Info();
